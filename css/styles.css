@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+	color: black;
+	
+}
+
+.green {
+	color: chartreuse;
+	
+}
+
+#lorem {
+	color: #400977;
+	
+}
+
+h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	
+}
+
+h3 {
+	color: #EA7E36;
+	
+}
+
+div {
+	background-color: aqua;
+	width: 100%; 
+	height: 100px;
+	border: dotted;
+	
+}
